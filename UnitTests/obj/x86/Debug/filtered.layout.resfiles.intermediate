@@ -1,0 +1,6 @@
+WinMetadata\Windows.winmd
+Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+UnitTestApp.xbf
+UnitTests.xr.xml

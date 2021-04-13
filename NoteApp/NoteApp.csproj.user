@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <ProjectView>ProjectFiles</ProjectView>
+    <SplashScreenSource>C:\Users\brady\Downloads\SplashScreen.png</SplashScreenSource>
+    <AppIconSource>C:\Users\brady\Pictures\190703.png</AppIconSource>
+  </PropertyGroup>
+</Project>

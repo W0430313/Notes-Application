@@ -1,0 +1,19 @@
+﻿<ContentDialog
+    x:Class="NoteApp.AboutDialog"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:NoteApp"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Title="About"
+    PrimaryButtonText="Okay">
+
+    <StackPanel>
+        <TextBlock Text="Project Name: NoteApp" />
+        <TextBlock Text="Developer: Brady Getson" />
+        <TextBlock Text="Release Date: Junecember 41th 1212" />
+
+    </StackPanel>
+</ContentDialog>
+
