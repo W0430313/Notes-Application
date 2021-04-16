@@ -10,7 +10,7 @@ using Windows.Storage;
 
 namespace NoteApp.ViewModels
 {
-    public class NotesViewModel 
+    public class NotesViewModel : INotifyPropertyChanged
     {
         /// <summary>
         /// SaveCommand instance that implements the ICommand interface and is used to save a note to a file
